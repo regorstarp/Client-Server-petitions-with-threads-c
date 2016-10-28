@@ -1,0 +1,301 @@
+  $ Client VIP $: 1 Compra: 1
+$ Client VIP $: 1 Compra: 2
+$ Client VIP $: 1 Compra: 3
+$ Client VIP $: 1 Compra: 4
+$ Client VIP $: 1 Compra: 5
+$ Client VIP $: 2 Compra: 3
+$ Client VIP $: 3 Compra: 1
+$ Client VIP $: 2 Compra: 4
+$ Client VIP $: 1 Compra: 8
+$ Client VIP $: 3 Compra: 3
+Client Normal: 1 Compra: 6
+Client Normal: 1 Compra: 7
+Client Normal: 2 Compra: 1
+$ Client VIP $: 1 Compra: 10
+$ Client VIP $: 3 Compra: 5
+$ Client VIP $: 2 Compra: 6
+$ Client VIP $: 3 Compra: 6
+$ Client VIP $: 3 Compra: 7
+Client Normal: 2 Compra: 2
+Client Normal: 3 Compra: 2
+Client Normal: 1 Compra: 9
+Client Normal: 3 Compra: 4
+$ Client VIP $: 1 Compra: 12
+$ Client VIP $: 3 Compra: 9
+Client Normal: 2 Compra: 5
+Client Normal: 1 Compra: 11
+Client Normal: 2 Compra: 7
+Client Normal: 3 Compra: 8
+$ Client VIP $: 2 Compra: 9
+$ Client VIP $: 3 Compra: 11
+Client Normal: 1 Compra: 13
+Client Normal: 2 Compra: 8
+Client Normal: 3 Compra: 10
+Client Normal: 1 Compra: 14
+Client Normal: 1 Compra: 15
+Client Normal: 3 Compra: 12
+$ Client VIP $: 3 Compra: 13
+$ Client VIP $: 2 Compra: 11
+$ Client VIP $: 1 Compra: 17
+$ Client VIP $: 2 Compra: 12
+$ Client VIP $: 1 Compra: 18
+$ Client VIP $: 3 Compra: 15
+$ Client VIP $: 2 Compra: 13
+$ Client VIP $: 1 Compra: 19
+$ Client VIP $: 2 Compra: 15
+$ Client VIP $: 1 Compra: 20
+$ Client VIP $: 2 Compra: 17
+$ Client VIP $: 3 Compra: 16
+Client Normal: 2 Compra: 10
+Client Normal: 1 Compra: 16
+Client Normal: 3 Compra: 14
+$ Client VIP $: 2 Compra: 19
+$ Client VIP $: 2 Compra: 20
+$ Client VIP $: 1 Compra: 22
+$ Client VIP $: 3 Compra: 18
+$ Client VIP $: 1 Compra: 23
+$ Client VIP $: 1 Compra: 24
+Client Normal: 2 Compra: 14
+Client Normal: 2 Compra: 16
+Client Normal: 2 Compra: 18
+$ Client VIP $: 2 Compra: 22
+Client Normal: 1 Compra: 21
+$ Client VIP $: 1 Compra: 27
+Client Normal: 3 Compra: 17
+Client Normal: 2 Compra: 21
+Client Normal: 1 Compra: 25
+$ Client VIP $: 1 Compra: 29
+$ Client VIP $: 1 Compra: 30
+$ Client VIP $: 2 Compra: 25
+Client Normal: 1 Compra: 26
+Client Normal: 2 Compra: 23
+Client Normal: 1 Compra: 28
+$ Client VIP $: 1 Compra: 32
+$ Client VIP $: 1 Compra: 33
+$ Client VIP $: 1 Compra: 34
+Client Normal: 2 Compra: 24
+Client Normal: 3 Compra: 19
+Client Normal: 1 Compra: 31
+Client Normal: 2 Compra: 26
+Client Normal: 2 Compra: 27
+Client Normal: 1 Compra: 35
+Client Normal: 2 Compra: 28
+$ Client VIP $: 3 Compra: 21
+$ Client VIP $: 1 Compra: 38
+$ Client VIP $: 1 Compra: 39
+$ Client VIP $: 1 Compra: 40
+$ Client VIP $: 1 Compra: 41
+Client Normal: 1 Compra: 36
+Client Normal: 3 Compra: 20
+Client Normal: 2 Compra: 29
+Client Normal: 1 Compra: 37
+Client Normal: 2 Compra: 30
+Client Normal: 1 Compra: 42
+$ Client VIP $: 2 Compra: 32
+Client Normal: 3 Compra: 22
+$ Client VIP $: 3 Compra: 24
+Client Normal: 2 Compra: 31
+Client Normal: 1 Compra: 43
+Client Normal: 1 Compra: 44
+Client Normal: 3 Compra: 23
+$ Client VIP $: 1 Compra: 46
+Client Normal: 2 Compra: 33
+$ Client VIP $: 3 Compra: 27
+$ Client VIP $: 2 Compra: 35
+$ Client VIP $: 2 Compra: 36
+$ Client VIP $: 3 Compra: 29
+$ Client VIP $: 3 Compra: 30
+$ Client VIP $: 3 Compra: 31
+$ Client VIP $: 3 Compra: 32
+$ Client VIP $: 3 Compra: 33
+$ Client VIP $: 3 Compra: 34
+Client Normal: 3 Compra: 25
+Client Normal: 1 Compra: 45
+Client Normal: 3 Compra: 26
+Client Normal: 2 Compra: 34
+$ Client VIP $: 1 Compra: 48
+$ Client VIP $: 1 Compra: 49
+$ Client VIP $: 2 Compra: 39
+$ Client VIP $: 3 Compra: 36
+$ Client VIP $: 1 Compra: 50
+$ Client VIP $: 3 Compra: 37
+$ Client VIP $: 3 Compra: 38
+$ Client VIP $: 3 Compra: 39
+Client Normal: 3 Compra: 28
+Client Normal: 2 Compra: 37
+Client Normal: 1 Compra: 47
+$ Client VIP $: 1 Compra: 52
+$ Client VIP $: 2 Compra: 41
+$ Client VIP $: 1 Compra: 53
+Client Normal: 2 Compra: 38
+Client Normal: 3 Compra: 35
+Client Normal: 1 Compra: 51
+Client Normal: 2 Compra: 40
+$ Client VIP $: 1 Compra: 55
+$ Client VIP $: 1 Compra: 56
+$ Client VIP $: 3 Compra: 42
+$ Client VIP $: 3 Compra: 43
+Client Normal: 3 Compra: 40
+Client Normal: 2 Compra: 42
+Client Normal: 1 Compra: 54
+Client Normal: 3 Compra: 41
+$ Client VIP $: 3 Compra: 45
+$ Client VIP $: 3 Compra: 46
+$ Client VIP $: 2 Compra: 46
+$ Client VIP $: 3 Compra: 47
+$ Client VIP $: 2 Compra: 47
+Client Normal: 2 Compra: 43
+Client Normal: 2 Compra: 44
+Client Normal: 3 Compra: 44
+Client Normal: 2 Compra: 45
+Client Normal: 1 Compra: 57
+Client Normal: 2 Compra: 48
+$ Client VIP $: 3 Compra: 49
+Client Normal: 2 Compra: 49
+$ Client VIP $: 2 Compra: 52
+Client Normal: 2 Compra: 50
+$ Client VIP $: 2 Compra: 54
+$ Client VIP $: 2 Compra: 55
+Client Normal: 3 Compra: 48
+Client Normal: 2 Compra: 51
+Client Normal: 3 Compra: 50
+$ Client VIP $: 2 Compra: 57
+$ Client VIP $: 3 Compra: 53
+$ Client VIP $: 3 Compra: 54
+$ Client VIP $: 2 Compra: 59
+$ Client VIP $: 3 Compra: 55
+$ Client VIP $: 2 Compra: 60
+Client Normal: 2 Compra: 53
+Client Normal: 3 Compra: 51
+Client Normal: 2 Compra: 56
+$ Client VIP $: 2 Compra: 62
+$ Client VIP $: 1 Compra: 59
+$ Client VIP $: 2 Compra: 63
+$ Client VIP $: 1 Compra: 60
+$ Client VIP $: 2 Compra: 64
+$ Client VIP $: 3 Compra: 57
+$ Client VIP $: 1 Compra: 61
+$ Client VIP $: 1 Compra: 62
+$ Client VIP $: 2 Compra: 65
+$ Client VIP $: 2 Compra: 66
+$ Client VIP $: 3 Compra: 58
+$ Client VIP $: 2 Compra: 67
+$ Client VIP $: 1 Compra: 63
+$ Client VIP $: 1 Compra: 64
+$ Client VIP $: 1 Compra: 65
+Client Normal: 3 Compra: 52
+Client Normal: 2 Compra: 58
+Client Normal: 2 Compra: 61
+Client Normal: 1 Compra: 58
+Client Normal: 3 Compra: 56
+$ Client VIP $: 1 Compra: 68
+$ Client VIP $: 1 Compra: 69
+Client Normal: 3 Compra: 59
+Client Normal: 1 Compra: 66
+Client Normal: 1 Compra: 67
+Client Normal: 2 Compra: 68
+$ Client VIP $: 3 Compra: 61
+Client Normal: 2 Compra: 69
+Client Normal: 2 Compra: 70
+Client Normal: 3 Compra: 60
+Client Normal: 2 Compra: 71
+$ Client VIP $: 2 Compra: 73
+$ Client VIP $: 2 Compra: 74
+$ Client VIP $: 2 Compra: 75
+Client Normal: 3 Compra: 62
+Client Normal: 1 Compra: 70
+Client Normal: 2 Compra: 72
+Client Normal: 1 Compra: 71
+$ Client VIP $: 2 Compra: 77
+$ Client VIP $: 2 Compra: 78
+$ Client VIP $: 1 Compra: 74
+$ Client VIP $: 1 Compra: 75
+$ Client VIP $: 1 Compra: 76
+$ Client VIP $: 1 Compra: 77
+Client Normal: 3 Compra: 63
+Client Normal: 2 Compra: 76
+Client Normal: 1 Compra: 72
+$ Client VIP $: 1 Compra: 79
+$ Client VIP $: 1 Compra: 80
+$ Client VIP $: 3 Compra: 66
+$ Client VIP $: 1 Compra: 81
+$ Client VIP $: 1 Compra: 82
+$ Client VIP $: 1 Compra: 83
+$ Client VIP $: 1 Compra: 84
+Client Normal: 3 Compra: 64
+Client Normal: 1 Compra: 73
+Client Normal: 1 Compra: 78
+Client Normal: 2 Compra: 79
+Client Normal: 3 Compra: 65
+$ Client VIP $: 3 Compra: 69
+$ Client VIP $: 3 Compra: 70
+Client Normal: 2 Compra: 80
+Client Normal: 3 Compra: 67
+Client Normal: 3 Compra: 68
+Client Normal: 2 Compra: 81
+Client Normal: 1 Compra: 85
+Client Normal: 3 Compra: 71
+Client Normal: 1 Compra: 86
+Client Normal: 1 Compra: 87
+Client Normal: 3 Compra: 72
+Client Normal: 2 Compra: 82
+$ Client VIP $: 2 Compra: 84
+$ Client VIP $: 1 Compra: 90
+$ Client VIP $: 2 Compra: 86
+Client Normal: 1 Compra: 88
+Client Normal: 3 Compra: 73
+Client Normal: 2 Compra: 83
+$ Client VIP $: 3 Compra: 75
+$ Client VIP $: 3 Compra: 76
+$ Client VIP $: 1 Compra: 92
+$ Client VIP $: 3 Compra: 77
+Client Normal: 1 Compra: 89
+Client Normal: 2 Compra: 85
+Client Normal: 3 Compra: 74
+Client Normal: 1 Compra: 91
+Client Normal: 2 Compra: 87
+Client Normal: 3 Compra: 78
+Client Normal: 1 Compra: 93
+$ Client VIP $: 1 Compra: 94
+$ Client VIP $: 2 Compra: 89
+$ Client VIP $: 3 Compra: 80
+$ Client VIP $: 1 Compra: 95
+$ Client VIP $: 2 Compra: 90
+$ Client VIP $: 2 Compra: 91
+$ Client VIP $: 1 Compra: 97
+$ Client VIP $: 3 Compra: 81
+$ Client VIP $: 3 Compra: 82
+$ Client VIP $: 1 Compra: 98
+$ Client VIP $: 1 Compra: 99
+$ Client VIP $: 1 Compra: 100
+Client Normal: 2 Compra: 88
+Client Normal: 3 Compra: 79
+Client Normal: 1 Compra: 96
+Client Normal: 2 Compra: 92
+Client Normal: 2 Compra: 93
+Client Normal: 2 Compra: 94
+Client Normal: 3 Compra: 83
+Client Normal: 2 Compra: 95
+$ Client VIP $: 3 Compra: 85
+$ Client VIP $: 2 Compra: 97
+$ Client VIP $: 3 Compra: 86
+$ Client VIP $: 2 Compra: 98
+$ Client VIP $: 3 Compra: 87
+$ Client VIP $: 3 Compra: 88
+$ Client VIP $: 2 Compra: 100
+$ Client VIP $: 3 Compra: 90
+$ Client VIP $: 3 Compra: 91
+$ Client VIP $: 3 Compra: 92
+$ Client VIP $: 3 Compra: 93
+$ Client VIP $: 3 Compra: 94
+Client Normal: 3 Compra: 84
+Client Normal: 2 Compra: 96
+Client Normal: 2 Compra: 99
+Client Normal: 3 Compra: 89
+Client Normal: 3 Compra: 95
+Client Normal: 3 Compra: 96
+$ Client VIP $: 3 Compra: 97
+Client Normal: 3 Compra: 98
+Client Normal: 3 Compra: 99
+Client Normal: 3 Compra: 100
+Client Normal: 0 Compra: 0
